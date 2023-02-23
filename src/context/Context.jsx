@@ -43,23 +43,23 @@ export const ContextProvider = ({ children }) => {
   const navItems = [
     {
       name: t("navItem1"),
-      href: "/home",
+      href: "home",
     },
     {
       name: t("navItem2"),
-      href: "/about",
+      href: "about",
     },
     {
       name: t("navItem3"),
-      href: "/service",
+      href: "service",
     },
     {
       name: t("navItem4"),
-      href: "/portfolio",
+      href: "portfolio",
     },
     {
       name: t("navItem5"),
-      href: "/contact",
+      href: "contact",
     },
   ];
   const themeColors = [

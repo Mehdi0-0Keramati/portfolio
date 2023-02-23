@@ -1,5 +1,5 @@
 import ReactDOM from "react-dom/client";
-import { createBrowserRouter, RouterProvider } from "react-router-dom"
+import { createBrowserRouter,createHashRouter, RouterProvider } from "react-router-dom"
 import ErrorPage from "./components/ErrorPage";
 
 import App from "./App";
@@ -9,7 +9,7 @@ import { ContextProvider } from "./context/Context"
 
 const root = ReactDOM.createRoot(document.getElementById("root"))
 
-const router = createBrowserRouter([
+const router = createHashRouter([
     {
         path: "/",
         element: <App />,
