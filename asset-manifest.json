@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d24086b5.css",
-    "main.js": "/portfolio/static/js/main.9f45b433.js",
-    "static/media/me2.png": "/portfolio/static/media/me2.a79708c495e01c293fb0.png",
+    "main.css": "/portfolio/static/css/main.a111d46c.css",
+    "main.js": "/portfolio/static/js/main.71a370f7.js",
     "static/media/me.png": "/portfolio/static/media/me.c9a3efee0ff499da2ce1.png",
+    "static/media/me2.png": "/portfolio/static/media/me2.01235afffb92f28e9be3.png",
     "static/media/Roboto-Bold.ttf": "/portfolio/static/media/Roboto-Bold.63311334b795ce3b76e2.ttf",
     "static/media/legends_landingpage.png": "/portfolio/static/media/legends_landingpage.e4e26d5c068693a759fb.png",
     "static/media/SomeGames.png": "/portfolio/static/media/SomeGames.1b02094bc6b72861109b.png",
@@ -27,11 +27,11 @@
     "static/media/littleProject.png": "/portfolio/static/media/littleProject.bc9a5439dc61015b4542.png",
     "static/media/quizapp.png": "/portfolio/static/media/quizapp.c2699e3e144b830586f5.png",
     "index.html": "/portfolio/index.html",
-    "main.d24086b5.css.map": "/portfolio/static/css/main.d24086b5.css.map",
-    "main.9f45b433.js.map": "/portfolio/static/js/main.9f45b433.js.map"
+    "main.a111d46c.css.map": "/portfolio/static/css/main.a111d46c.css.map",
+    "main.71a370f7.js.map": "/portfolio/static/js/main.71a370f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.d24086b5.css",
-    "static/js/main.9f45b433.js"
+    "static/css/main.a111d46c.css",
+    "static/js/main.71a370f7.js"
   ]
 }
