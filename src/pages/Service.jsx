@@ -75,7 +75,7 @@ const Service = () => {
                 {
                   `.swiper-pagination-bullet {
                     background-color: transparent;
-                    border:${localStorage.getItem("ThemeMode") === "dark" ? "1px solid white" : "1px solid black"} ;
+                    border:${localStorage.getItem("ThemeMode") == "dark" ? "1px solid white" : "1px solid black"} ;
                     opacity:1;
                     padding:.3rem;
                   }`
