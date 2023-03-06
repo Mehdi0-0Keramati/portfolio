@@ -16,7 +16,7 @@ const Home = () => {
       >
         <Snowfall
           style={{
-            opacity: "0.3",
+            opacity: "0.5",
           }}
           color={currentColor}
           snowflakeCount={80}

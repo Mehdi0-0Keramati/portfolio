@@ -17,7 +17,7 @@ export const ContextProvider = ({ children }) => {
   const [loading, setLoading] = useState(true);
   const [settings, setSettings] = useState(false);
   const [currentColor, setCurrentColor] = useState("#F55050");
-  const [currentMode, setCurrentMode] = useState("dark");
+  const [currentMode, setCurrentMode] = useState("light");
   const [currentLang, setCurrentLang] = useState("en");
   const { t, i18n } = useTranslation();
 
